@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class CameraSwitch : MonoBehaviour
 {
+
+    [Header("PRESS C TO CHANGE CAM")]
     public Camera camera1;
     public Camera camera2;
 
