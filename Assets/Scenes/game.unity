@@ -1933,7 +1933,7 @@ MonoBehaviour:
   RR: {fileID: 1065441950}
   motorForce: 15000
   steeringAngle: 30
-  brakeForce: 25000
+  brakeForce: 40000
 --- !u!4 &568760316 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7242708064620489130, guid: 077937a285a1ebb4c930510b06caa222, type: 3}
@@ -79744,7 +79744,7 @@ Transform:
   m_GameObject: {fileID: 1861615363}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.4, z: 0}
+  m_LocalPosition: {x: 0, y: 0.0001, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
