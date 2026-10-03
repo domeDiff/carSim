@@ -58,9 +58,31 @@
                     "isPartOfComposite": true
                 },
                 {
+                    "name": "negative",
+                    "id": "5d52f1da-3fff-414d-94ca-133d98d5f30b",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throttle",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
                     "name": "positive",
                     "id": "6b9e7c72-8a66-4723-be06-37ac92169e3a",
                     "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throttle",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "8ce28d22-517d-42f5-92e4-006f30741c9a",
+                    "path": "<Gamepad>/rightTrigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
